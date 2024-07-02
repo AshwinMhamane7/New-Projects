@@ -16,4 +16,4 @@ This tool is using for footprinting and gather information about the on target, 
 We can easily find someone's online presence on social media using this tool. Sherlock is written in python language. Sherlock searches approximately 300 websites for usernames and then delivers the link to the relevant social media platform.
 Example:
 sherlock john_doe //  sherlock --site reddit.com // sherlock -fo John john_doe, johndoe - // Send results to folder with a file for each username specified.
-USERNAMES One or more usernames to check with social networks. // --site [SITE_­NAME] Limit analysis to just the listed sites. // --proxy/-p [PROXY­_URL] Make request.
+USERNAMES One or more uspytpernames to check with social networks. // --site [SITE_­NAME] Limit analysis to just the listed sites. // --proxy/-p [PROXY­_URL] Make request.
